@@ -1,0 +1,39 @@
+[
+    {
+        "_id": "6942e0b057032161aef1e254",
+        "titulo": "Fernando artículo era",
+        "plataforma": "Amazon Prime",
+        "temporadas": 1,
+        "genero": [
+            "Acción",
+            "Thriller"
+        ],
+        "puntuacion": 8.5,
+        "finalizada": true,
+        "año_estreno": 2011
+    },
+    {
+        "_id": "6942e0b057032161aef1e266",
+        "titulo": "Sentido será movimiento",
+        "plataforma": "Paramount+",
+        "temporadas": 2,
+        "genero": [
+            "Fantasía"
+        ],
+        "puntuacion": 9.6,
+        "finalizada": false,
+        "año_estreno": 2011
+    },
+    {
+        "_id": "6942e0b057032161aef1e274",
+        "titulo": "Domingo suficiente",
+        "plataforma": "Amazon Prime",
+        "temporadas": 1,
+        "genero": [
+            "Comedia"
+        ],
+        "puntuacion": 10.0,
+        "finalizada": true,
+        "año_estreno": 2021
+    }
+]

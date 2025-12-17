@@ -1,0 +1,171 @@
+[
+    {
+        "_id": "6942e0b057032161aef1e24f",
+        "titulo": "Has era",
+        "plataforma": "Amazon Prime",
+        "temporadas": 11,
+        "genero": [
+            "Acción"
+        ],
+        "puntuacion": 9.7,
+        "finalizada": true,
+        "año_estreno": 2016
+    },
+    {
+        "_id": "6942e0b057032161aef1e250",
+        "titulo": "Llegado lleva",
+        "plataforma": "Netflix",
+        "temporadas": 8,
+        "genero": [
+            "Acción"
+        ],
+        "puntuacion": 10.0,
+        "finalizada": true,
+        "año_estreno": 2014
+    },
+    {
+        "_id": "6942e0b057032161aef1e253",
+        "titulo": "Estar suficiente oposición",
+        "plataforma": "Netflix",
+        "temporadas": 8,
+        "genero": [
+            "Drama"
+        ],
+        "puntuacion": 8.1,
+        "finalizada": true,
+        "año_estreno": 2017
+    },
+    {
+        "_id": "6942e0b057032161aef1e259",
+        "titulo": "Podrá jorge país",
+        "plataforma": "Disney+",
+        "temporadas": 10,
+        "genero": [
+            "Documental"
+        ],
+        "puntuacion": 9.0,
+        "finalizada": true,
+        "año_estreno": 2022
+    },
+    {
+        "_id": "6942e0b057032161aef1e25a",
+        "titulo": "Haber hoy amigos",
+        "plataforma": "Apple TV+",
+        "temporadas": 8,
+        "genero": [
+            "Documental"
+        ],
+        "puntuacion": 9.8,
+        "finalizada": true,
+        "año_estreno": 2022
+    },
+    {
+        "_id": "6942e0b057032161aef1e25e",
+        "titulo": "Boca hijo algunas",
+        "plataforma": "Amazon Prime",
+        "temporadas": 9,
+        "genero": [
+            "Fantasía"
+        ],
+        "puntuacion": 9.4,
+        "finalizada": true,
+        "año_estreno": 2024
+    },
+    {
+        "_id": "6942e0b057032161aef1e265",
+        "titulo": "Antonio militar grande",
+        "plataforma": "Netflix",
+        "temporadas": 7,
+        "genero": [
+            "Drama"
+        ],
+        "puntuacion": 9.1,
+        "finalizada": true,
+        "año_estreno": 2024
+    },
+    {
+        "_id": "6942e0b057032161aef1e26b",
+        "titulo": "Sol",
+        "plataforma": "Apple TV+",
+        "temporadas": 8,
+        "genero": [
+            "Fantasía",
+            "Documental"
+        ],
+        "puntuacion": 8.1,
+        "finalizada": true,
+        "año_estreno": 2016
+    },
+    {
+        "_id": "6942e0b057032161aef1e26d",
+        "titulo": "Quería pueden",
+        "plataforma": "Paramount+",
+        "temporadas": 10,
+        "genero": [
+            "Sci-Fi"
+        ],
+        "puntuacion": 9.6,
+        "finalizada": true,
+        "año_estreno": 2014
+    },
+    {
+        "_id": "6942e0b057032161aef1e26e",
+        "titulo": "Fernando francisco",
+        "plataforma": "Disney+",
+        "temporadas": 9,
+        "genero": [
+            "Documental"
+        ],
+        "puntuacion": 8.7,
+        "finalizada": false,
+        "año_estreno": 2016
+    },
+    {
+        "_id": "6942e0b057032161aef1e273",
+        "titulo": "Investigación mayores acciones",
+        "plataforma": "Apple TV+",
+        "temporadas": 7,
+        "genero": [
+            "Fantasía"
+        ],
+        "puntuacion": 8.7,
+        "finalizada": false,
+        "año_estreno": 2011
+    },
+    {
+        "_id": "6942e0b057032161aef1e275",
+        "titulo": "Policía podrá programa",
+        "plataforma": "Apple TV+",
+        "temporadas": 12,
+        "genero": [
+            "Documental"
+        ],
+        "puntuacion": 8.9,
+        "finalizada": false,
+        "año_estreno": 2010
+    },
+    {
+        "_id": "6942e0b057032161aef1e278",
+        "titulo": "Primeros nosotros grupos",
+        "plataforma": "Amazon Prime",
+        "temporadas": 10,
+        "genero": [
+            "Fantasía"
+        ],
+        "puntuacion": 8.7,
+        "finalizada": true,
+        "año_estreno": 2017
+    },
+    {
+        "_id": "6942e0b057032161aef1e27a",
+        "titulo": "Única",
+        "plataforma": "Apple TV+",
+        "temporadas": 8,
+        "genero": [
+            "Documental"
+        ],
+        "puntuacion": 8.5,
+        "finalizada": false,
+        "año_estreno": 2010
+    }
+]
