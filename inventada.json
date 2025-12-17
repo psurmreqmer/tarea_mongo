@@ -1,39 +1,40 @@
 [
     {
-        "_id": "6942e0b057032161aef1e254",
-        "titulo": "Fernando artículo era",
+        "_id": "6942eaded9d3f36ad41844f1",
+        "titulo": "Nuevos modelo",
         "plataforma": "Amazon Prime",
         "temporadas": 1,
         "genero": [
             "Acción",
-            "Thriller"
+            "Sci-Fi"
         ],
-        "puntuacion": 8.5,
-        "finalizada": true,
-        "año_estreno": 2011
+        "puntuacion": 9.3,
+        "finalizada": false,
+        "año_estreno": 2014
     },
     {
-        "_id": "6942e0b057032161aef1e266",
-        "titulo": "Sentido será movimiento",
-        "plataforma": "Paramount+",
+        "_id": "6942eaded9d3f36ad4184505",
+        "titulo": "Necesario oro estilo",
+        "plataforma": "Apple TV+",
         "temporadas": 2,
         "genero": [
-            "Fantasía"
+            "Documental",
+            "Sci-Fi"
         ],
-        "puntuacion": 9.6,
-        "finalizada": false,
-        "año_estreno": 2011
+        "puntuacion": 9.3,
+        "finalizada": true,
+        "año_estreno": 2016
     },
     {
-        "_id": "6942e0b057032161aef1e274",
-        "titulo": "Domingo suficiente",
-        "plataforma": "Amazon Prime",
-        "temporadas": 1,
+        "_id": "6942eaded9d3f36ad4184510",
+        "titulo": "Podrá comercio actividades",
+        "plataforma": "HBO Max",
+        "temporadas": 2,
         "genero": [
             "Comedia"
         ],
-        "puntuacion": 10.0,
-        "finalizada": true,
-        "año_estreno": 2021
+        "puntuacion": 8.5,
+        "finalizada": false,
+        "año_estreno": 2010
     }
 ]

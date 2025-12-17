@@ -1,51 +1,61 @@
 [
     {
-        "_id": "6942e0b057032161aef1e25b",
-        "titulo": "Alta dólares",
-        "plataforma": "Apple TV+",
-        "temporadas": 12,
+        "_id": "6942eaded9d3f36ad41844f6",
+        "titulo": "Dice durante pp",
+        "plataforma": "Paramount+",
+        "temporadas": 8,
         "genero": [
-            "Comedia",
-            "Acción"
-        ],
-        "puntuacion": 6.3,
-        "finalizada": false,
-        "año_estreno": 2024
-    },
-    {
-        "_id": "6942e0b057032161aef1e262",
-        "titulo": "Cuyo negro dios",
-        "plataforma": "HBO Max",
-        "temporadas": 4,
-        "genero": [
-            "Documental",
             "Comedia"
         ],
-        "puntuacion": 9.1,
+        "puntuacion": 8.5,
+        "finalizada": false,
+        "año_estreno": 2021
+    },
+    {
+        "_id": "6942eaded9d3f36ad41844f9",
+        "titulo": "Congreso santa",
+        "plataforma": "Apple TV+",
+        "temporadas": 6,
+        "genero": [
+            "Thriller",
+            "Comedia"
+        ],
+        "puntuacion": 7.4,
         "finalizada": true,
         "año_estreno": 2021
     },
     {
-        "_id": "6942e0b057032161aef1e274",
-        "titulo": "Domingo suficiente",
-        "plataforma": "Amazon Prime",
+        "_id": "6942eaded9d3f36ad418451d",
+        "titulo": "Asunto social",
+        "plataforma": "Disney+",
+        "temporadas": 7,
+        "genero": [
+            "Comedia"
+        ],
+        "puntuacion": 7.7,
+        "finalizada": true,
+        "año_estreno": 2023
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184526",
+        "titulo": "Varios g estas",
+        "plataforma": "HBO Max",
+        "temporadas": 6,
+        "genero": [
+            "Comedia"
+        ],
+        "finalizada": true,
+        "año_estreno": 2021
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184529",
+        "titulo": "Teatro ocasión",
+        "plataforma": "Paramount+",
         "temporadas": 1,
         "genero": [
             "Comedia"
         ],
-        "puntuacion": 10.0,
-        "finalizada": true,
-        "año_estreno": 2021
-    },
-    {
-        "_id": "6942e0b057032161aef1e27e",
-        "titulo": "Película",
-        "plataforma": "Amazon Prime",
-        "temporadas": 2,
-        "genero": [
-            "Comedia"
-        ],
-        "finalizada": true,
+        "finalizada": false,
         "año_estreno": 2024
     }
 ]

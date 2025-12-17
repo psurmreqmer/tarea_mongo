@@ -1,429 +1,372 @@
 [
     {
-        "_id": "6942e0b057032161aef1e24b",
-        "titulo": "Tratamiento doctor diciembre",
-        "plataforma": "HBO Max",
-        "temporadas": 1,
-        "genero": [
-            "Acción"
-        ],
-        "puntuacion": 7.0,
-        "finalizada": true,
-        "año_estreno": 2014
-    },
-    {
-        "_id": "6942e0b057032161aef1e24c",
-        "titulo": "Amor tribunal",
-        "plataforma": "HBO Max",
-        "temporadas": 10,
-        "genero": [
-            "Documental"
-        ],
-        "puntuacion": 6.8,
-        "finalizada": true,
-        "año_estreno": 2010
-    },
-    {
-        "_id": "6942e0b057032161aef1e24d",
-        "titulo": "Formas hombres millones será",
-        "plataforma": "Disney+",
-        "temporadas": 2,
-        "genero": [
-            "Drama",
-            "Acción"
-        ],
-        "puntuacion": 6.4,
-        "finalizada": true,
-        "año_estreno": 2021
-    },
-    {
-        "_id": "6942e0b057032161aef1e24f",
-        "titulo": "Has era",
-        "plataforma": "Amazon Prime",
+        "_id": "6942eaded9d3f36ad41844f2",
+        "titulo": "Grupos contrario anterior",
+        "plataforma": "Paramount+",
         "temporadas": 11,
         "genero": [
-            "Acción"
+            "Documental",
+            "Sci-Fi"
         ],
-        "puntuacion": 9.7,
+        "puntuacion": 7.1,
         "finalizada": true,
-        "año_estreno": 2016
+        "año_estreno": 2023
     },
     {
-        "_id": "6942e0b057032161aef1e250",
-        "titulo": "Llegado lleva",
-        "plataforma": "Netflix",
-        "temporadas": 8,
+        "_id": "6942eaded9d3f36ad41844f4",
+        "titulo": "Un somos enero",
+        "plataforma": "Apple TV+",
+        "temporadas": 2,
         "genero": [
-            "Acción"
+            "Comedia",
+            "Sci-Fi"
         ],
-        "puntuacion": 10.0,
+        "puntuacion": 6.0,
         "finalizada": true,
-        "año_estreno": 2014
+        "año_estreno": 2013
     },
     {
-        "_id": "6942e0b057032161aef1e251",
-        "titulo": "Situación problemas",
-        "plataforma": "Paramount+",
-        "temporadas": 1,
+        "_id": "6942eaded9d3f36ad41844f5",
+        "titulo": "Paciente puntos económica acuerdo",
+        "plataforma": "Apple TV+",
+        "temporadas": 9,
         "genero": [
-            "Sci-Fi",
-            "Comedia"
-        ],
-        "puntuacion": 8.4,
-        "finalizada": true,
-        "año_estreno": 2015
-    },
-    {
-        "_id": "6942e0b057032161aef1e252",
-        "titulo": "Llamado armas incluso",
-        "plataforma": "Netflix",
-        "temporadas": 8,
-        "genero": [
-            "Thriller",
-            "Acción"
-        ],
-        "puntuacion": 6.2,
-        "finalizada": true,
-        "año_estreno": 2021
-    },
-    {
-        "_id": "6942e0b057032161aef1e253",
-        "titulo": "Estar suficiente oposición",
-        "plataforma": "Netflix",
-        "temporadas": 8,
-        "genero": [
+            "Documental",
             "Drama"
         ],
-        "puntuacion": 8.1,
-        "finalizada": true,
-        "año_estreno": 2017
-    },
-    {
-        "_id": "6942e0b057032161aef1e254",
-        "titulo": "Fernando artículo era",
-        "plataforma": "Amazon Prime",
-        "temporadas": 1,
-        "genero": [
-            "Acción",
-            "Thriller"
-        ],
-        "puntuacion": 8.5,
+        "puntuacion": 6.3,
         "finalizada": true,
         "año_estreno": 2011
     },
     {
-        "_id": "6942e0b057032161aef1e255",
-        "titulo": "Camino régimen acción",
-        "plataforma": "Disney+",
-        "temporadas": 12,
+        "_id": "6942eaded9d3f36ad41844f7",
+        "titulo": "Banco sólo",
+        "plataforma": "Netflix",
+        "temporadas": 10,
         "genero": [
-            "Sci-Fi",
-            "Documental"
+            "Sci-Fi"
         ],
-        "puntuacion": 6.3,
+        "puntuacion": 8.1,
         "finalizada": true,
-        "año_estreno": 2017
+        "año_estreno": 2015
     },
     {
-        "_id": "6942e0b057032161aef1e256",
-        "titulo": "Salida final",
-        "plataforma": "HBO Max",
+        "_id": "6942eaded9d3f36ad41844f9",
+        "titulo": "Congreso santa",
+        "plataforma": "Apple TV+",
         "temporadas": 6,
         "genero": [
-            "Drama"
+            "Thriller",
+            "Comedia"
         ],
         "puntuacion": 7.4,
         "finalizada": true,
-        "año_estreno": 2017
+        "año_estreno": 2021
     },
     {
-        "_id": "6942e0b057032161aef1e259",
-        "titulo": "Podrá jorge país",
-        "plataforma": "Disney+",
-        "temporadas": 10,
+        "_id": "6942eaded9d3f36ad41844fc",
+        "titulo": "Línea dar pie",
+        "plataforma": "Netflix",
+        "temporadas": 12,
         "genero": [
-            "Documental"
+            "Comedia"
         ],
-        "puntuacion": 9.0,
+        "puntuacion": 6.7,
+        "finalizada": true,
+        "año_estreno": 2013
+    },
+    {
+        "_id": "6942eaded9d3f36ad41844fe",
+        "titulo": "Deben mí juicio",
+        "plataforma": "HBO Max",
+        "temporadas": 4,
+        "genero": [
+            "Documental",
+            "Thriller"
+        ],
+        "puntuacion": 6.0,
+        "finalizada": true,
+        "año_estreno": 2019
+    },
+    {
+        "_id": "6942eaded9d3f36ad41844ff",
+        "titulo": "Madrid podía principal",
+        "plataforma": "Apple TV+",
+        "temporadas": 9,
+        "genero": [
+            "Drama",
+            "Acción"
+        ],
+        "puntuacion": 9.4,
         "finalizada": true,
         "año_estreno": 2022
     },
     {
-        "_id": "6942e0b057032161aef1e25a",
-        "titulo": "Haber hoy amigos",
+        "_id": "6942eaded9d3f36ad4184500",
+        "titulo": "Me construcción habría",
         "plataforma": "Apple TV+",
-        "temporadas": 8,
+        "temporadas": 12,
+        "genero": [
+            "Fantasía"
+        ],
+        "puntuacion": 6.4,
+        "finalizada": true,
+        "año_estreno": 2022
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184502",
+        "titulo": "Vamos ejemplo",
+        "plataforma": "Netflix",
+        "temporadas": 6,
+        "genero": [
+            "Documental",
+            "Fantasía"
+        ],
+        "puntuacion": 8.1,
+        "finalizada": true,
+        "año_estreno": 2014
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184504",
+        "titulo": "Fuera riesgo",
+        "plataforma": "HBO Max",
+        "temporadas": 12,
+        "genero": [
+            "Thriller",
+            "Drama"
+        ],
+        "puntuacion": 7.4,
+        "finalizada": true,
+        "año_estreno": 2010
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184505",
+        "titulo": "Necesario oro estilo",
+        "plataforma": "Apple TV+",
+        "temporadas": 2,
+        "genero": [
+            "Documental",
+            "Sci-Fi"
+        ],
+        "puntuacion": 9.3,
+        "finalizada": true,
+        "año_estreno": 2016
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184506",
+        "titulo": "Público proceso servicios",
+        "plataforma": "Paramount+",
+        "temporadas": 3,
+        "genero": [
+            "Fantasía",
+            "Comedia"
+        ],
+        "puntuacion": 8.6,
+        "finalizada": true,
+        "año_estreno": 2010
+    },
+    {
+        "_id": "6942eaded9d3f36ad418450b",
+        "titulo": "Popular carrera",
+        "plataforma": "Amazon Prime",
+        "temporadas": 3,
         "genero": [
             "Documental"
         ],
         "puntuacion": 9.8,
         "finalizada": true,
-        "año_estreno": 2022
+        "año_estreno": 2018
     },
     {
-        "_id": "6942e0b057032161aef1e25c",
-        "titulo": "Primer cine cuanto",
-        "plataforma": "Disney+",
-        "temporadas": 7,
-        "genero": [
-            "Comedia"
-        ],
-        "puntuacion": 7.0,
-        "finalizada": true,
-        "año_estreno": 2011
-    },
-    {
-        "_id": "6942e0b057032161aef1e25e",
-        "titulo": "Boca hijo algunas",
-        "plataforma": "Amazon Prime",
-        "temporadas": 9,
-        "genero": [
-            "Fantasía"
-        ],
-        "puntuacion": 9.4,
-        "finalizada": true,
-        "año_estreno": 2024
-    },
-    {
-        "_id": "6942e0b057032161aef1e261",
-        "titulo": "Mujeres opinión",
-        "plataforma": "HBO Max",
-        "temporadas": 2,
-        "genero": [
-            "Fantasía"
-        ],
-        "puntuacion": 6.1,
-        "finalizada": true,
-        "año_estreno": 2022
-    },
-    {
-        "_id": "6942e0b057032161aef1e262",
-        "titulo": "Cuyo negro dios",
-        "plataforma": "HBO Max",
+        "_id": "6942eaded9d3f36ad418450d",
+        "titulo": "Mi creación",
+        "plataforma": "Netflix",
         "temporadas": 4,
         "genero": [
-            "Documental",
-            "Comedia"
+            "Thriller"
         ],
-        "puntuacion": 9.1,
-        "finalizada": true,
-        "año_estreno": 2021
-    },
-    {
-        "_id": "6942e0b057032161aef1e263",
-        "titulo": "Unidad mira libertad aquella",
-        "plataforma": "HBO Max",
-        "temporadas": 1,
-        "genero": [
-            "Fantasía"
-        ],
-        "puntuacion": 6.4,
+        "puntuacion": 9.3,
         "finalizada": true,
         "año_estreno": 2010
     },
     {
-        "_id": "6942e0b057032161aef1e264",
-        "titulo": "Joven efecto debe",
+        "_id": "6942eaded9d3f36ad418450f",
+        "titulo": "Razón forma",
         "plataforma": "Apple TV+",
-        "temporadas": 4,
+        "temporadas": 2,
         "genero": [
-            "Comedia",
-            "Fantasía"
+            "Sci-Fi",
+            "Documental"
+        ],
+        "puntuacion": 6.4,
+        "finalizada": true,
+        "año_estreno": 2018
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184511",
+        "titulo": "Grupos producto juez",
+        "plataforma": "Apple TV+",
+        "temporadas": 10,
+        "genero": [
+            "Comedia"
+        ],
+        "puntuacion": 6.5,
+        "finalizada": true,
+        "año_estreno": 2018
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184514",
+        "titulo": "Ideas única",
+        "plataforma": "Netflix",
+        "temporadas": 6,
+        "genero": [
+            "Thriller"
+        ],
+        "puntuacion": 6.9,
+        "finalizada": true,
+        "año_estreno": 2016
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184515",
+        "titulo": "Después dirección cambios",
+        "plataforma": "Disney+",
+        "temporadas": 2,
+        "genero": [
+            "Documental",
+            "Acción"
+        ],
+        "puntuacion": 6.7,
+        "finalizada": true,
+        "año_estreno": 2013
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184516",
+        "titulo": "Diez tres mirada",
+        "plataforma": "Disney+",
+        "temporadas": 6,
+        "genero": [
+            "Fantasía",
+            "Sci-Fi"
         ],
         "puntuacion": 9.9,
         "finalizada": true,
         "año_estreno": 2019
     },
     {
-        "_id": "6942e0b057032161aef1e265",
-        "titulo": "Antonio militar grande",
-        "plataforma": "Netflix",
-        "temporadas": 7,
-        "genero": [
-            "Drama"
-        ],
-        "puntuacion": 9.1,
-        "finalizada": true,
-        "año_estreno": 2024
-    },
-    {
-        "_id": "6942e0b057032161aef1e268",
-        "titulo": "Necesidad grado",
-        "plataforma": "Paramount+",
-        "temporadas": 4,
-        "genero": [
-            "Sci-Fi",
-            "Acción"
-        ],
-        "puntuacion": 8.1,
-        "finalizada": true,
-        "año_estreno": 2024
-    },
-    {
-        "_id": "6942e0b057032161aef1e26b",
-        "titulo": "Sol",
-        "plataforma": "Apple TV+",
-        "temporadas": 8,
-        "genero": [
-            "Fantasía",
-            "Documental"
-        ],
-        "puntuacion": 8.1,
-        "finalizada": true,
-        "año_estreno": 2016
-    },
-    {
-        "_id": "6942e0b057032161aef1e26d",
-        "titulo": "Quería pueden",
-        "plataforma": "Paramount+",
-        "temporadas": 10,
-        "genero": [
-            "Sci-Fi"
-        ],
-        "puntuacion": 9.6,
-        "finalizada": true,
-        "año_estreno": 2014
-    },
-    {
-        "_id": "6942e0b057032161aef1e26f",
-        "titulo": "Norte blanco",
-        "plataforma": "Paramount+",
-        "temporadas": 1,
-        "genero": [
-            "Thriller"
-        ],
-        "puntuacion": 6.5,
-        "finalizada": true,
-        "año_estreno": 2015
-    },
-    {
-        "_id": "6942e0b057032161aef1e271",
-        "titulo": "Económica",
-        "plataforma": "Paramount+",
-        "temporadas": 10,
-        "genero": [
-            "Documental",
-            "Fantasía"
-        ],
-        "puntuacion": 6.8,
-        "finalizada": true,
-        "año_estreno": 2014
-    },
-    {
-        "_id": "6942e0b057032161aef1e272",
-        "titulo": "Autoridades amor posible",
-        "plataforma": "Netflix",
-        "temporadas": 2,
-        "genero": [
-            "Drama"
-        ],
-        "puntuacion": 8.2,
-        "finalizada": true,
-        "año_estreno": 2016
-    },
-    {
-        "_id": "6942e0b057032161aef1e274",
-        "titulo": "Domingo suficiente",
-        "plataforma": "Amazon Prime",
-        "temporadas": 1,
-        "genero": [
-            "Comedia"
-        ],
-        "puntuacion": 10.0,
-        "finalizada": true,
-        "año_estreno": 2021
-    },
-    {
-        "_id": "6942e0b057032161aef1e276",
-        "titulo": "Primero europea riesgo",
-        "plataforma": "Disney+",
-        "temporadas": 3,
-        "genero": [
-            "Drama",
-            "Comedia"
-        ],
-        "puntuacion": 7.3,
-        "finalizada": true,
-        "año_estreno": 2010
-    },
-    {
-        "_id": "6942e0b057032161aef1e278",
-        "titulo": "Primeros nosotros grupos",
+        "_id": "6942eaded9d3f36ad4184517",
+        "titulo": "Éste lleva",
         "plataforma": "Amazon Prime",
         "temporadas": 10,
         "genero": [
-            "Fantasía"
+            "Drama"
         ],
-        "puntuacion": 8.7,
+        "puntuacion": 9.2,
+        "finalizada": true,
+        "año_estreno": 2023
+    },
+    {
+        "_id": "6942eaded9d3f36ad418451c",
+        "titulo": "Junio cinco",
+        "plataforma": "Amazon Prime",
+        "temporadas": 11,
+        "genero": [
+            "Thriller",
+            "Drama"
+        ],
+        "puntuacion": 7.9,
         "finalizada": true,
         "año_estreno": 2017
     },
     {
-        "_id": "6942e0b057032161aef1e27b",
-        "titulo": "Rodríguez frente",
-        "plataforma": "HBO Max",
-        "temporadas": 10,
-        "genero": [
-            "Fantasía",
-            "Thriller"
-        ],
-        "puntuacion": 7.0,
-        "finalizada": true,
-        "año_estreno": 2019
-    },
-    {
-        "_id": "6942e0b057032161aef1e27d",
-        "titulo": "Mil josé cuadro puedo",
-        "plataforma": "HBO Max",
-        "temporadas": 6,
-        "genero": [
-            "Documental"
-        ],
-        "finalizada": true,
-        "año_estreno": 2020
-    },
-    {
-        "_id": "6942e0b057032161aef1e27e",
-        "titulo": "Película",
-        "plataforma": "Amazon Prime",
-        "temporadas": 2,
+        "_id": "6942eaded9d3f36ad418451d",
+        "titulo": "Asunto social",
+        "plataforma": "Disney+",
+        "temporadas": 7,
         "genero": [
             "Comedia"
         ],
+        "puntuacion": 7.7,
         "finalizada": true,
-        "año_estreno": 2024
+        "año_estreno": 2023
     },
     {
-        "_id": "6942e0b057032161aef1e281",
-        "titulo": "Ahora ciento elecciones",
+        "_id": "6942eaded9d3f36ad418451e",
+        "titulo": "Mes garcía conjunto",
         "plataforma": "Paramount+",
-        "temporadas": 7,
+        "temporadas": 5,
         "genero": [
-            "Thriller"
+            "Acción"
         ],
+        "puntuacion": 6.3,
+        "finalizada": true,
+        "año_estreno": 2013
+    },
+    {
+        "_id": "6942eaded9d3f36ad418451f",
+        "titulo": "Etc decía materia",
+        "plataforma": "Disney+",
+        "temporadas": 11,
+        "genero": [
+            "Fantasía"
+        ],
+        "puntuacion": 6.4,
+        "finalizada": true,
+        "año_estreno": 2017
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184520",
+        "titulo": "Aunque oro",
+        "plataforma": "Apple TV+",
+        "temporadas": 3,
+        "genero": [
+            "Fantasía"
+        ],
+        "puntuacion": 7.2,
         "finalizada": true,
         "año_estreno": 2022
     },
     {
-        "_id": "6942e0b057032161aef1e282",
-        "titulo": "Pablo",
-        "plataforma": "Disney+",
-        "temporadas": 3,
+        "_id": "6942eaded9d3f36ad4184523",
+        "titulo": "Total militares",
+        "plataforma": "Netflix",
+        "temporadas": 1,
         "genero": [
-            "Drama"
+            "Comedia"
         ],
         "finalizada": true,
-        "año_estreno": 2016
+        "año_estreno": 2015
     },
     {
-        "_id": "6942e0b057032161aef1e283",
-        "titulo": "Arriba pasa salida",
-        "plataforma": "Paramount+",
-        "temporadas": 5,
+        "_id": "6942eaded9d3f36ad4184526",
+        "titulo": "Varios g estas",
+        "plataforma": "HBO Max",
+        "temporadas": 6,
         "genero": [
-            "Sci-Fi"
+            "Comedia"
         ],
         "finalizada": true,
-        "año_estreno": 2018
+        "año_estreno": 2021
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184527",
+        "titulo": "Familia septiembre",
+        "plataforma": "Amazon Prime",
+        "temporadas": 8,
+        "genero": [
+            "Fantasía"
+        ],
+        "finalizada": true,
+        "año_estreno": 2021
+    },
+    {
+        "_id": "6942eaded9d3f36ad4184528",
+        "titulo": "Sur jóvenes familia",
+        "plataforma": "Netflix",
+        "temporadas": 2,
+        "genero": [
+            "Documental"
+        ],
+        "finalizada": true,
+        "año_estreno": 2017
     }
 ]

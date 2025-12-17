@@ -155,7 +155,41 @@ for serie in series_filtradas:
     print(serie["titulo"], serie["puntuacion"], serie["detalles"]["pais_origen"])
 
 
+#GASTO FINANCIERO
 
+EPISODIOS_POR_TEMPORADA = 8
+
+
+gasto = [
+    {
+        "$lookup": {
+            "from": "detalles_produccion",      
+            "localField": "titulo",
+            "foreignField": "titulo",
+            "as": "detalles"
+        }
+    },
+    {"$unwind": "$detalles"}, 
+    {
+        "$project": {
+            "_id": 0,
+            "titulo": 1,
+            "coste_total": {
+                "$multiply": [
+                    "$detalles.presupuesto_por_episodio",
+                    {"$multiply": ["$temporadas", EPISODIOS_POR_TEMPORADA]}
+                ]
+            }
+        }
+    }
+]
+
+gasto_financiero = list(coleccion.aggregate(gasto))
+
+with open("gasto_financiero.json", "w", encoding="utf-8") as f:
+    json.dump(gasto_financiero, f, ensure_ascii=False, indent=4)
+
+print("Gasto financiero calculado y guardado en gasto_financiero.json")
 
 
 
